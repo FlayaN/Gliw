@@ -24,3 +24,9 @@
 *.idb
 *.sdf
 *.suo
+*.exp
+
+Gliw.dll
+Gliw.lib
+Gliw_d.dll
+Gliw_d.lib
